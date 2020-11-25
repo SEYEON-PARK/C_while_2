@@ -3,7 +3,7 @@
 int main(void)
 {
 	char name[30];
-	printf("ÀÌ¸§À» ÀÔ·ÂÇÏ¼¼¿ä. : ");
+	printf("ì´ë¦„ì„ ì…ë ¥í•˜ì‹œì˜¤. : ");
 	scanf_s("%s", name, sizeof(name));
 
 	int i = 0;
